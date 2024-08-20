@@ -1062,7 +1062,8 @@ footer .copyright {
   }
 
   #feature {
-    justify-content: center; 
+    justify-content: center;
+    gap: 10px; 
   }
   
   #feature .fe-box {
@@ -1155,10 +1156,6 @@ footer .copyright {
 
   h1 {
     font-size: 38px;
-  }
-
-  #feature {
-    justify-content: space-between;
   }
   
   #feature .fe-box {
